@@ -56,7 +56,7 @@
     "jsesc": "^3.0.2",
     "lobes4": "4.0.1",
     "lodash": "^4.17.21",
-    "log": "^6.0.0",
+    "log": "^6.3.2",
     "log-node": "^8.0.3",
     "mocha-chai-jest-snapshot": "^1.1.4",
     "morgan": "^1.10.0",
